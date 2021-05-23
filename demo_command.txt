@@ -1,0 +1,2 @@
+
+python demo.py  --config config/taichi-256.yaml --driving_video sources/video.mp4 --source_image sources/emma.jpg --checkpoint checkpoints/taichi-cpk.pth.tar --relative --adapt_scale
